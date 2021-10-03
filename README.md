@@ -1,4 +1,4 @@
-# A/B Test Result Analysis
+# A/B Test Result Analysis - October 2020
 
 Analysing A/B test results, using Python
 
